@@ -1,6 +1,5 @@
  [![Build OpenSource](https://raw.githubusercontent.com/CreateDownloader/YouTubeDownloader/master/OpenSource.png)](https://github.com/mohamedosama914/Visual-Studio-Projects)
 
- https://github.com/mohamedosama914/Visual-Studio-Projects                          
                https://github.com/mohamedosama914/Visual-Studio-Projects/releases
 ***
 ``  https://github.com/mohamedosama914/Visual-Studio-Projects/releases/download/1.0.0/Web.Browser.exe ``
